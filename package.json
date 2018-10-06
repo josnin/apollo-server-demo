@@ -1,0 +1,17 @@
+{
+  "name": "apollo-server-demo",
+  "version": "1.0.0",
+  "description": "Just for DEMO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.1.0",
+    "apollo-server-express": "^2.1.0",
+    "graphql": "^14.0.2",
+    "node-fetch": "^2.2.0"
+  }
+}
